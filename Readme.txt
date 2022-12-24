@@ -1,0 +1,1 @@
+To check the Project please open this link: http://myfin-webap-8hds068b4gsy-763601735.us-east-1.elb.amazonaws.com/
